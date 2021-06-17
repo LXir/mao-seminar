@@ -6,7 +6,7 @@ https://elmas3.github.io/mao-seminar/
 # メンバー
 hoge
 foo
-bar
+bardd
 
 # ディレクトリ構成
 ```
